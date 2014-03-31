@@ -1,0 +1,85 @@
+@charset "utf-8";
+
+body {
+	background-color: #4679bd;
+	height: 44px;
+}
+
+
+.holder1{
+	text-decoration: none;
+		
+}
+
+nav{
+	vertical-align: middle;
+}
+
+
+.menu_logo{
+	float: left;
+	vertical-align: middle;
+	padding-right: 30px;
+	color:white;
+	font-size: large;
+	font-weight: bold;
+	font-family: Arial;
+	text-align: center;
+	
+}
+.menu_text{
+	content:" ";
+	text-align: left;
+	text-shadow: 20;
+	font-size: medium;
+	font-weight:500;
+	font-family: Arial;
+	text-decoration: none;
+
+}
+
+a{
+	text-decoration: none !important;
+}
+
+.menu_text a:link{
+	text-decoration: none;
+	color: white;
+}
+
+
+.menu_text a:visited {
+	text-decoration: none;
+	color: white;
+}
+
+
+.menu_logo a:link{
+	text-decoration: none;
+	color: white;
+}
+
+
+.menu_logo a:visited {
+	text-decoration: none;
+	color: white;
+}
+
+
+
+.search_bar{
+	float: right;
+	
+}
+
+.login_state{
+	
+	float: right;
+}
+
+
+
+
+
+
+
